@@ -1,0 +1,9 @@
+Package: com.lint.nofolderbadges
+Name: NoFolderBadges
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Removes badges on folders.
+Maintainer: lint
+Author: lint
+Section: Tweaks
